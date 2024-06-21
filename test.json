@@ -1,0 +1,6 @@
+{
+    "num_sensors": 15,
+    "range_value": 10,
+    "measuring_area": [100, 100],
+    "num_poi": 45
+}
